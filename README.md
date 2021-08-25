@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @matchuca
+- 👀 I’m interested in Python and embedded C
+- 🌱 I’m currently learning embedded C
+- 📫 How to reach me: mdeoliveira.araujo@gmail.com
